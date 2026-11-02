@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m Asmita, a passionate developer who enjoys building real-world web applications. I’m learning .NET Core, Angular, SQL Server, and AI, and I love turning ideas into working projects. Right now I’m working on Book Your Table, a restaurant table booking app where users can search restaurants and reserve tables easily. My goal is to grow as a full stack developer and build useful, user-friendly software. I’m open to learning opportunities, internships, and collaboration on projects.
+I’m a Software Engineer and Full Stack .NET Developer with hands-on experience building applications on live projects. I specialize in developing end-to-end web applications using C#, ASP.NET Core, Web API, SQL Server, and modern frontend technologies like Angular.
+
+Technology changes fast, and I’m adaptable and always ready to learn new tools so I can stay competitive in the real world. I’m currently working on Book Your Table, a restaurant table booking app, and exploring AI to build smarter features into my applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asmita-girhepunje-611580246) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:girhepunjeasmita25@gmail.com) 
